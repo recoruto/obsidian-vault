@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "test"
             }
           }
         ],
@@ -228,7 +228,9 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1812c694c2f87189",
@@ -239,7 +241,7 @@
     "automation",
     "knowledge",
     "作成テスト.md",
-    "無題のファイル.md",
+    "test.md",
     "projects",
     "inbox",
     "新しいフォルダー",
