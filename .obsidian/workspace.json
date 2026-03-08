@@ -8,20 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80669be7d9ba56bb",
+            "id": "1263e0923a7c1f0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル 4.base",
+                "viewName": "表"
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-table",
+              "title": "無題のファイル 4"
+            }
+          },
+          {
+            "id": "35e4fb6c6ac7a8e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-08 23.33.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-08 23.33.20.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Excalidraw/Drawing 2026-03-08 23.33.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のファイルへのバックリンク"
+              "title": "Drawing 2026-03-08 23.33.20.excalidrawへのバックリンク"
             }
           },
           {
@@ -156,23 +168,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "Excalidraw/Drawing 2026-03-08 23.33.20.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "Drawing 2026-03-08 23.33.20.excalidrawのアウトライン"
             }
           },
           {
-            "id": "d1ae9abb6d51dfff",
+            "id": "74f34af470cbc10e",
             "type": "leaf",
             "state": {
-              "type": "github-issue-controls-view",
+              "type": "setup-view",
               "state": {},
-              "icon": "github",
-              "title": "Github Issue Controls"
+              "icon": "cog",
+              "title": "Setup"
             }
           }
         ],
@@ -199,25 +211,29 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "80669be7d9ba56bb",
+  "active": "35e4fb6c6ac7a8e0",
   "lastOpenFiles": [
+    "無題のファイル 4.base",
+    "Excalidraw/Drawing 2026-03-08 23.33.20.excalidraw.md",
+    "無題のファイル 2.canvas",
+    "test.md",
+    "無題のファイル.md",
+    "無題のファイル 1.canvas",
+    "2026-03-08.md",
+    "無題のファイル 3.base",
+    "Excalidraw/Drawing 2026-03-08 23.29.27.excalidraw.md",
+    "無題のファイル 1.base",
+    "無題のファイル.canvas",
+    "無題のファイル 2.base",
     "無題のファイル 1.md",
     "無題のファイル.base",
     "作成テスト.md",
     "ようこそ.md",
-    "無題のファイル.canvas",
-    "無題のファイル.md",
-    "無題のファイル 1.base",
-    "2026-03-08.md",
-    "test.md",
     "Excalidraw/Drawing 2026-03-08 23.00.31.excalidraw.md",
     "Excalidraw",
     "templates",
     "resources",
     "ai",
-    "automation",
-    "knowledge",
-    "projects",
-    "inbox"
+    "automation"
   ]
 }
