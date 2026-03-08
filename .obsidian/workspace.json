@@ -8,34 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1263e0923a7c1f0a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "無題のファイル 4.base",
-                "viewName": "表"
-              },
-              "icon": "lucide-table",
-              "title": "無題のファイル 4"
-            }
-          },
-          {
             "id": "35e4fb6c6ac7a8e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "testへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -170,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "ようこそ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "testのアウトライン"
+              "title": "ようこそのアウトライン"
             }
           },
           {
@@ -234,25 +215,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "35e4fb6c6ac7a8e0",
+  "active": "1812c694c2f87189",
   "lastOpenFiles": [
+    "作成テスト.md",
+    "ようこそ.md",
+    "無題のファイル 2.canvas",
+    "2026-03-08.md",
     "無題のファイル.canvas",
     "無題のファイル.base",
-    "作成テスト.md",
+    "test.md",
     "無題のファイル 5.base",
     "Excalidraw/Drawing 2026-03-08 23.33.20.excalidraw.md",
     "無題のファイル 4.base",
-    "無題のファイル 2.canvas",
-    "test.md",
     "無題のファイル.md",
     "無題のファイル 1.canvas",
-    "2026-03-08.md",
     "無題のファイル 3.base",
     "Excalidraw/Drawing 2026-03-08 23.29.27.excalidraw.md",
     "無題のファイル 1.base",
     "無題のファイル 2.base",
     "無題のファイル 1.md",
-    "ようこそ.md",
     "Excalidraw/Drawing 2026-03-08 23.00.31.excalidraw.md",
     "Excalidraw",
     "templates",
