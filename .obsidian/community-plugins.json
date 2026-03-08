@@ -1,4 +1,9 @@
 [
   "githobs",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "omnisearch",
+  "obsidian-excalidraw-plugin",
+  "smart-second-brain"
 ]
