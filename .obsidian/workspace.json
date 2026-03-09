@@ -206,7 +206,6 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "githobs:Manage a github issue": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
