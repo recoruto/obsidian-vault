@@ -11,13 +11,116 @@
             "id": "35e4fb6c6ac7a8e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "【お知らせ】 4月以降の勤務形態一覧表の様式について.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "【お知らせ】 4月以降の勤務形態一覧表の様式について"
+            }
+          },
+          {
+            "id": "f5f3554e26863db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "4448c2eb75750976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 1"
+            }
+          },
+          {
+            "id": "5739a20c5f2c64c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 2"
+            }
+          },
+          {
+            "id": "2359c1a96206fc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 3"
+            }
+          },
+          {
+            "id": "5c1504be57d4e8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 4"
+            }
+          },
+          {
+            "id": "201ca1f0a8ce12b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 5"
+            }
+          },
+          {
+            "id": "fb750b12ae9904d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,8 +317,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1812c694c2f87189",
+  "active": "fb750b12ae9904d3",
   "lastOpenFiles": [
+    "【お知らせ】 4月以降の勤務形態一覧表の様式について.md",
+    "無題のファイル.md",
+    "無題のファイル 6.md",
+    "無題のファイル 5.md",
+    "無題のファイル 4.md",
+    "無題のファイル 3.md",
+    "無題のファイル 2.md",
+    "無題のファイル 1.md",
+    "work_memo",
     "作成テスト.md",
     "ようこそ.md",
     "無題のファイル 2.canvas",
@@ -226,17 +338,14 @@
     "無題のファイル 5.base",
     "Excalidraw/Drawing 2026-03-08 23.33.20.excalidraw.md",
     "無題のファイル 4.base",
-    "無題のファイル.md",
     "無題のファイル 1.canvas",
     "無題のファイル 3.base",
     "Excalidraw/Drawing 2026-03-08 23.29.27.excalidraw.md",
     "無題のファイル 1.base",
     "無題のファイル 2.base",
-    "無題のファイル 1.md",
     "Excalidraw/Drawing 2026-03-08 23.00.31.excalidraw.md",
     "Excalidraw",
     "templates",
-    "resources",
-    "ai"
+    "resources"
   ]
 }
